@@ -28,3 +28,11 @@ main .middle {
     cursor: pointer;
     border-radius: 7px;
 }
+
+.btn-container{
+    text-align: center;
+}
+
+.text-primary{
+    color: #FF0000;
+}
