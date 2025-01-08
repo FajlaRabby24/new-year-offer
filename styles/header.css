@@ -1,0 +1,32 @@
+header {
+    /* border-radius: 16px; */
+    border: none;
+    background: linear-gradient(0deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%), url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-subtitle {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.header-title {
+    color: rgb(255, 255, 255);
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 600px;
+    margin-top: 30px;
+}
